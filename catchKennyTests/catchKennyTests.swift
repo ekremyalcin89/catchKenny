@@ -2,7 +2,7 @@
 //  catchKennyTests.swift
 //  catchKennyTests
 //
-//  Created by Tayyip on 3.09.2022.
+//  Created by Ekrem on 3.09.2022.
 //
 
 import XCTest
